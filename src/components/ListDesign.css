@@ -1,0 +1,12 @@
+.side-list{
+    border:  1px solid black  ;
+    height: auto;
+    width:30vw;
+    display: flex;
+    flex-direction: row;
+    justify-items: auto;
+    
+    padding: 5px;
+    margin:5px;
+
+};
